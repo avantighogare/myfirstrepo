@@ -1,0 +1,4 @@
+avni.txt
+*.jpg
+!am.jpg
+/image/myfolder
